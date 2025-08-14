@@ -1,3 +1,5 @@
+# NAME : Tharun Kumar V
+# REG NO : 212224240173
 # Echoserver
 Echo server and client using python socket
 # AIM:
@@ -85,10 +87,13 @@ httpd.serve_forever()
 ```
 
 
-## OUTPUT:
-### CLIENT OUTPUT:
+## OUTPUT :
 
-### SERVER OUTPUT:
+CLIENT AND SERVER OUTPUT : 
+                                                                                                                      
+<img width="1866" height="984" alt="Screenshot 2025-08-11 034829" src="https://github.com/user-attachments/assets/33334f15-935a-48e4-9fff-72debbcbb8f6" />
+
+
 
 ## RESULT:
 The program is executed succesfully
